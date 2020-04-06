@@ -24,7 +24,7 @@ In addition to causing a massive movement of the work force to working from, the
   Free
 * [DevOps Online Summit](https://www.devopsonlinesummit.com/2020) - 20-24/04  
   Free
-* [HITB Lockdown Livestream](https://conference.hitb.org/lockdown-livestream/) - 24-25/04  
+* [HITB Lockdown Livestream](https://conference.hitb.org/lockdown-livestream/) - 25-26/04  
   Free
 * [Source Boston](https://sourceconference.com/events/boston20/) - 29/04-01/05  
   199\$
