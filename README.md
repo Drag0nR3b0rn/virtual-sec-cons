@@ -42,6 +42,7 @@ In addition to causing a massive movement of the work force to working from, the
 | [Breaching the Cloud Perimeter Training](https://register.gotowebinar.com/register/1264630092013493773) | 25/04 | Free |
 | [Intrusion Operations(Red Team Training)](https://www.eventbrite.com/e/intrusion-operationsred-team-training-online-course-tickets-95646598551) | 12-15/05 | 3,000\$ |
 | [Initial Access Operations](https://www.eventbrite.com/e/initial-access-operations-online-course-tickets-92257006189) | 21-22/05 | 1,750\$ |
+| [WorkshopCon](https://www.eventbrite.com/o/workshopcon-24511201712) | 04-05/06 | 400\$-2,550$ |
 
 
 ## CTFs
