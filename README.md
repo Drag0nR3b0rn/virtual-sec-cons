@@ -28,6 +28,8 @@ In addition to causing a massive movement of the work force to working from, the
   Free
 * [Source Boston](https://sourceconference.com/events/boston20/) - 29/04-01/05  
   199\$
+* [DerpCon](https://derpcon.io) - 30/04-01/05  
+  Free
 * [BSides Knoxville](https://bsidesknoxville.com) - 01/05  
   Free
 * [Suits & Spooks Safe House](https://tellaro.io/) - 07/05  
@@ -38,6 +40,8 @@ In addition to causing a massive movement of the work force to working from, the
   ==Price Unknown==
 * [Cisco Live!](https://www.ciscolive.com/us.html) - 02-03/06  
   ==Price Unknown==
+* [Layer 8](https://layer8conference.com/) - 06/06  
+  60\$-100\$
 * [CircleCityCon](https://circlecitycon.com/) - 12-14/06  
   75\$-150\$
 
