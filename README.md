@@ -30,6 +30,7 @@ In addition to causing a massive movement of the work force to working from, the
 | [AllTheTalks.online](https://www.allthetalks.online)                         |    15/04    | Free  |
 | [InfoSecOASIS](https://infosecoasis.com/)                                    |    18/04    | Free  |
 | [DevOps Online Summit](https://www.devopsonlinesummit.com/2020)              |  20-24/04   | Free  |
+| [Intro Sec Con](https://register.gotowebinar.com/register/8318696474608280845) | 25/04 | Free |
 | [HITB Lockdown Livestream](https://conference.hitb.org/lockdown-livestream/) |  25-26/04   | Free  |
 | [Source Boston](https://sourceconference.com/events/boston20/)               | 29/04-01/05 | 199\$ |
 | [DerpCon](https://derpcon.io)                                                | 30/04-01/05 | Free  |
