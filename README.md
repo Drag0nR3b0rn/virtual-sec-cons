@@ -11,6 +11,15 @@ In addition to causing a massive movement of the work force to working from, the
 
 ## Webinars
 
+| Name | Dates | Price |
+| ---- |:-----:|:-----:|
+| [SpecterOps Week of Webinars](https://twitter.com/SpecterOps/status/1243623526046871552) | 06-10/04 | Free |
+| [Adventures in Azure Privilege Escalation](https://www.netspi.com/research/webinars/lunch-and-learn-webinar-series/adventures-in-azure-privilege-escalation/) | 08/04 | Free |
+| [Adversarial Emulation with The C2 Matrix](https://register.gotowebinar.com/register/1738803278444958987) | 08/04 | Free |
+| [Securing The Cloud: Top Down and Bottom Up](https://www.netspi.com/research/webinars/webinar-securing-the-cloud-top-down-and-bottom-up/) | 16/04 | Free |
+| [SQL Server Hacking Tips for Active Directory Environments](https://www.netspi.com/research/webinars/lunch-and-learn-webinar-series/sql-server-hacking-tips-for-active-directory-environments/) | 06/05 | Free |
+
+
 ## Virtual Conferences
 
 | Name | Dates | Price |
