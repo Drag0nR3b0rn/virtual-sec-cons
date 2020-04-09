@@ -79,8 +79,16 @@ In addition to causing a massive movement of the work force to working from, the
 | [Adversary Tactics - Red Team Operations Training Course](https://www.eventbrite.com/e/adversary-tactics-red-team-operations-training-course-online-may-2020-tickets-100165983152) | 12-15/04 | 3,500\$ |
 | [Adversary Tactics - Detection Training Course](https://www.eventbrite.com/e/adversary-tactics-detection-training-course-online-may-2020-tickets-100167210824) | 12-15/04 | 3,500\$ |
 | [OWASP AppSecDays Training](https://appsecdays.org/trainings) | 28-29/04 | 495\$ |
+| [Firmware reverse engineering with Ghidra EU](https://advancedsecurity.training/event/live-ghidra-eu-spring-2020/) | 04-05/05 | 1,900\$ |
+| [Firmware reverse engineering with Ghidra US](https://advancedsecurity.training/event/live-ghidra-us-spring-2020/) | 06-07/05 | 1,900\$ |
+| [Introduction to Hardware Hacking and Reverse Engineering EU](https://advancedsecurity.training/event/live-hardware-intro-eu-spring-2020/) | 11-12/05 | 1,1900\$ |
+| [Introduction to Hardware Hacking and Reverse Engineering US](https://advancedsecurity.training/event/live-hardware-intro-us-spring-2020/) | 13-14/05 | 1,1900\$ |
+| [Introduction to Field Programmable Gate Arrays (FPGAs) EU](https://advancedsecurity.training/event/live-fpga-intro-eu-spring-2020/) | 20-21/05 | 1,900\$ |
+| [Introduction to Field Programmable Gate Arrays (FPGAs) US](https://advancedsecurity.training/event/live-fpga-intro-us-spring-2020/) | 20-21/05 | 1,900\$ |
 | [Initial Access Operations](https://www.eventbrite.com/e/initial-access-operations-online-course-tickets-92257006189) | 21-22/05 | 1,750\$ |
+| [Hardware Hacking and Instrumentation with FPGAs EU](https://advancedsecurity.training/event/live-fpga-hacking-eu-spring-2020/) | 26-29/05 | 3,000\$ |
 | [Professionally Evil CISSP Mentorship](https://training.secureideas.com/course/cissp-mentor/) | 02/06-04/07 | 1000\$ |
+| [Hardware Hacking and Instrumentation with FPGAs US](https://advancedsecurity.training/event/live-fpga-hacking-us-spring-2020/) | 02-05/06 | 3,000\$ |
 | [WorkshopCon](https://www.eventbrite.com/o/workshopcon-24511201712) | 04-05/06 | 400\$-2,550\$ |
 | [Adversary Tactics - Red Team Operations Training Course](https://www.eventbrite.com/e/adversary-tactics-red-team-operations-training-course-eu-online-june-2020-tickets-89436560159) | 09-12/06 | 3,500\$ |
 | [Professionally Evil Application Security (PEAS)](https://training.secureideas.com/course/proevilappsec-live/) | 10-12/06 | 1000\$ |
