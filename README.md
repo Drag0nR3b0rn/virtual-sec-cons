@@ -64,6 +64,7 @@ In addition to causing a massive movement of the work force to working from, the
 
 | Name | Dates | Price |
 | ---- |:-----:|:-----:|
+| [RED TEAM Operator: Malware Development Essentials Course](https://institute.sektor7.net/red-team-operator-malware-development-essentials?coupon=MALDEV-37FAA2TETO4) | On-Demand | 114\$ |
 | [Active Defense & Cyber Deception](https://register.gotowebinar.com/register/8326529395310476299) | 09/04 | Free |
 | [Adversary Tactics - Red Team Operations Training Course](https://www.eventbrite.com/e/adversary-tactics-red-team-operations-training-course-online-april-2020-tickets-89418488105?utm_term=eventname_text) | 14-17/04 | 3,500\$ |
 | [Breaching the Cloud Perimeter Training](https://register.gotowebinar.com/register/1264630092013493773) | 25/04 | Free |
@@ -72,8 +73,11 @@ In addition to causing a massive movement of the work force to working from, the
 | [Adversary Tactics - Detection Training Course](https://www.eventbrite.com/e/adversary-tactics-detection-training-course-online-may-2020-tickets-100167210824) | 12-15/04 | 3,500\$ |
 | [OWASP AppSecDays Training](https://appsecdays.org/trainings) | 28-29/04 | 495\$ |
 | [Initial Access Operations](https://www.eventbrite.com/e/initial-access-operations-online-course-tickets-92257006189) | 21-22/05 | 1,750\$ |
+| [Professionally Evil CISSP Mentorship](https://training.secureideas.com/course/cissp-mentor/) | 02/06-04/07 | 1000\$ |
 | [WorkshopCon](https://www.eventbrite.com/o/workshopcon-24511201712) | 04-05/06 | 400\$-2,550\$ |
 | [Adversary Tactics - Red Team Operations Training Course](https://www.eventbrite.com/e/adversary-tactics-red-team-operations-training-course-eu-online-june-2020-tickets-89436560159) | 09-12/06 | 3,500\$ |
+| [Professionally Evil Application Security (PEAS)](https://training.secureideas.com/course/proevilappsec-live/) | 10-12/06 | 1000\$ |
+| [Professionally Evil Network Testing](https://training.secureideas.com/course/proevilnettesting-live/) | 17-19/06 | 1000\$ |
 
 
 ## CTFs
