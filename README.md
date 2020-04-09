@@ -71,6 +71,10 @@ In addition to causing a massive movement of the work force to working from, the
 
 
 ## CTFs
+To avoid duplicating effort - only CTFs not tracked by [CTFtime](https://ctftime.org) are listed here. You can find even more [online CTFs on CTFtime](https://ctftime.org/event/list/?year=2020&online=1&format=0&restrictions=-1&upcoming=true)!  
+
+Also make sure not to miss [CTF.Live](https://www.ctf.live/) by [PentesterAcademy](https://www.pentesteracademy.com/).  
+
 
 | Name | Dates | Price |
 | ---- |:-----:|:-----:|
