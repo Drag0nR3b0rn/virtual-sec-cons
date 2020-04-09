@@ -61,6 +61,7 @@ In addition to causing a massive movement of the work force to working from, the
 | [NorthSec](https://nsec.io/) | ==TBA== | ==TBA== |
 | [IEEE S&P](https://www.ieee-security.org/TC/SP2020/index.html) | 18-21/05 | ==TBA== |
 | [Cisco Live!](https://www.ciscolive.com/us.html) | 02-03/06 | ==TBA== |
+| [0xCC v2](https://www.0xcc.sh/) | 05-06/06 | Free |
 | [Layer 8](https://layer8conference.com/) | 06/06 | 60\$-100\$ 
 | [BSides SATX](https://www.bsidessatx.com/) | 11/06 | Free|
 | [CircleCityCon](https://circlecitycon.com/) | 12-14/06 | 75\$-150\$ |
