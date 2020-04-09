@@ -22,10 +22,16 @@ In addition to causing a massive movement of the work force to working from, the
 
 ## Virtual Conferences
 
+:::spoiler Past conferences
 | Name | Dates | Price |
 | ---- |:-----:|:-----:|
 | [VirSecCon](https://virseccon.com/) | 04/04 | Free |
 | [OPCDE /online #2](https://online.opcde.com/) | 08/04 | Free |
+:::
+<br />
+
+| Name | Dates | Price |
+| ---- |:-----:|:-----:|
 | [ComfyCon AU](https://www.comfyconau.rocks) |  10-11/04   | Free  |
 | [vCyberCon](https://go.perchsecurity.com/vCyberCon-2020) | 13-16/04 | Free |
 | [GRIMMCon](https://blog.grimm-co.com/post/grimmcon/) | 14/04 | Free  |
