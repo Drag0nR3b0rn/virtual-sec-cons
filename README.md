@@ -15,7 +15,7 @@ In addition to causing a massive movement of the work force to working from, the
 | ---- |:-----:|:-----:|
 | [SpecterOps Week of Webinars](https://twitter.com/SpecterOps/status/1243623526046871552) | 06-10/04 | Free |
 | [Adventures in Azure Privilege Escalation](https://www.netspi.com/research/webinars/lunch-and-learn-webinar-series/adventures-in-azure-privilege-escalation/) | 08/04 | Free |
-| [Adversarial Emulation with The C2 Matrix](https://register.gotowebinar.com/register/1738803278444958987) | 08/04 | Free |
+| [Adversarial Emulation with The C2 Matrix](https://register.gotowebinar.com/register/1738803278444958987) | 08/04 | Free 
 | [ How to Simplify Secure Access for Remote Users and Protect Critical Internal Resources](https://lp.cyberark.com/20200414-Webinar-Secure-Remote-Access_Registration-Page.html) | 14/04 | Free |
 | [Securing The Cloud: Top Down and Bottom Up](https://www.netspi.com/research/webinars/webinar-securing-the-cloud-top-down-and-bottom-up/) | 16/04 | Free |
 | [Privileged Access Management 101: Changing Your Security Game](https://www.brighttalk.com/webcast/18084/396217) | 28/04 | Free |
@@ -36,10 +36,12 @@ In addition to causing a massive movement of the work force to working from, the
 | Name | Dates | Price |
 | ---- |:-----:|:-----:|
 | [ComfyCon AU](https://www.comfyconau.rocks) |  10-11/04   | Free  |
+| [Hidden Service](https://di.c3voc.de/en:start)| 11-12/04 | Free |
 | [vCyberCon](https://go.perchsecurity.com/vCyberCon-2020) | 13-16/04 | Free |
 | [GRIMMCon](https://blog.grimm-co.com/post/grimmcon/) | 14/04 | Free  |
 | [AllTheTalks.online](https://www.allthetalks.online) | 15/04 | Free |
 | [InfoSecOASIS](https://infosecoasis.com/) | 18/04 | Free  |
+| [SpicyCon](https://twitter.com/BetoOnSecurity/status/1244052857722200065) | 18/04 | ==TBA== |
 | [IsolationCon](https://themanyhats.club/the-many-hats-club-presents-isolationcon/) | 19/04 | Free |
 | [DevOps Online Summit](https://www.devopsonlinesummit.com/2020) | 20-24/04 | Free |
 | [OPCDE /online #3](https://online.opcde.com/) | 22/04 | Free |
@@ -53,6 +55,7 @@ In addition to causing a massive movement of the work force to working from, the
 | [DerpCon](https://derpcon.io) | 30/04-01/05 | Free  |
 | [Hardwear.io](https://hardwear.io/virtual-con-2020/) | 30/04-01/05 | Free |
 | [BSides Knoxville](https://bsidesknoxville.com) | 01/05 | Free |
+| [FajitaCon](https://twitter.com/fajitacon/status/1242445320983908354) | 02/05 | ==TBA== |
 | [Github Satellite](https://githubsatellite.com/) | 06/05 | ==TBA== |
 | [Suits & Spooks Safe House](https://tellaro.io/) | 07/05 | 98\$ |
 | [NorthSec](https://nsec.io/) | ==TBA== | ==TBA== |
