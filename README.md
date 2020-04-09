@@ -16,7 +16,10 @@ In addition to causing a massive movement of the work force to working from, the
 | [SpecterOps Week of Webinars](https://twitter.com/SpecterOps/status/1243623526046871552) | 06-10/04 | Free |
 | [Adventures in Azure Privilege Escalation](https://www.netspi.com/research/webinars/lunch-and-learn-webinar-series/adventures-in-azure-privilege-escalation/) | 08/04 | Free |
 | [Adversarial Emulation with The C2 Matrix](https://register.gotowebinar.com/register/1738803278444958987) | 08/04 | Free |
+| [ How to Simplify Secure Access for Remote Users and Protect Critical Internal Resources](https://lp.cyberark.com/20200414-Webinar-Secure-Remote-Access_Registration-Page.html) | 14/04 | Free |
 | [Securing The Cloud: Top Down and Bottom Up](https://www.netspi.com/research/webinars/webinar-securing-the-cloud-top-down-and-bottom-up/) | 16/04 | Free |
+| [Privileged Access Management 101: Changing Your Security Game](https://www.brighttalk.com/webcast/18084/396217) | 28/04 | Free |
+| [ Best Practices for Securing Cloud Based Applications and Infrastructure](https://lp.cyberark.com/20200429-Webinar-Secure-the-Cloud_Registration-Page.html) | 29/04 | Free |
 | [SQL Server Hacking Tips for Active Directory Environments](https://www.netspi.com/research/webinars/lunch-and-learn-webinar-series/sql-server-hacking-tips-for-active-directory-environments/) | 06/05 | Free |
 
 
