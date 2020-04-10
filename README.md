@@ -79,6 +79,7 @@ In addition to causing a massive movement of the work force to working from, the
 | Name | Dates | Price |
 | ---- |:-----:|:-----:|
 | [RED TEAM Operator: Malware Development Essentials Course](https://institute.sektor7.net/red-team-operator-malware-development-essentials?coupon=MALDEV-37FAA2TETO4) | On-Demand | 114\$ |
+| [COVID-19 Free Autopsy Training](https://www.autopsy.com/support/training/covid-19-free-autopsy-training/) | Up to 15/05 | Free |
 | [Adversary Tactics - Red Team Operations Training Course](https://www.eventbrite.com/e/adversary-tactics-red-team-operations-training-course-online-april-2020-tickets-89418488105?utm_term=eventname_text) | 14-17/04 | 3,500\$ |
 | [Breaching the Cloud Perimeter Training](https://register.gotowebinar.com/register/1264630092013493773) | 25/04 | Free |
 | [OWASP AppSecDays Training](https://appsecdays.org/trainings) | 28-29/04 | 495\$ |
