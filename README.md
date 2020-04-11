@@ -63,8 +63,8 @@ In addition to causing a massive movement of the work force to working from, the
 | [Cisco Live!](https://www.ciscolive.com/us.html) | 02-03/06 | ==TBA== |
 | [0xCC v2](https://www.0xcc.sh/) | 05-06/06 | Free |
 | [Layer 8](https://layer8conference.com/) | 06/06 | 60\$-100\$ 
-| [BSides SATX](https://www.bsidessatx.com/) | 11/06 | Free|
 | [CircleCityCon](https://circlecitycon.com/) | 12-14/06 | 75\$-150\$ |
+| [BSides SATX](https://www.bsidessatx.com/) | 11/07 | Free|
 
 
 ## Trainings
@@ -94,6 +94,7 @@ In addition to causing a massive movement of the work force to working from, the
 | [Introduction to Field Programmable Gate Arrays (FPGAs) US](https://advancedsecurity.training/event/live-fpga-intro-us-spring-2020/) | 20-21/05 | 1,900\$ |
 | [Initial Access Operations](https://www.eventbrite.com/e/initial-access-operations-online-course-tickets-92257006189) | 21-22/05 | 1,750\$ |
 | [Hardware Hacking and Instrumentation with FPGAs EU](https://advancedsecurity.training/event/live-fpga-hacking-eu-spring-2020/) | 26-29/05 | 3,000\$ |
+| [Breaching the Cloud Perimeter Training](https://register.gotowebinar.com/register/4364043420412522509) | 28/05 | Free |
 | [Professionally Evil CISSP Mentorship](https://training.secureideas.com/course/cissp-mentor/) | 02/06-04/07 | 1,000\$ |
 | [Hardware Hacking and Instrumentation with FPGAs US](https://advancedsecurity.training/event/live-fpga-hacking-us-spring-2020/) | 02-05/06 | 3,000\$ |
 | [WorkshopCon](https://www.eventbrite.com/o/workshopcon-24511201712) | 04-05/06 | 400\$-2,550\$ |
